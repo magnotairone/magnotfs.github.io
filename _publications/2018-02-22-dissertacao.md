@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2018-02-22-dissertacao
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2018-02-22
-venue: 'Journal 1'
+venue: 'Repositório Institucional UFMG'
 paperurl: 'https://repositorio.ufmg.br/bitstream/1843/BUOS-AZGNHV/1/dissertacao_magno_t_f_severino.pdf'
 citation: 'Severino, Magno TF. (2018). &quot;Extending JAGS for spatial data.&quot; <i>Dissertação de Mestrado</i>.'
 ---

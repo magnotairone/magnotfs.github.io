@@ -5,7 +5,7 @@ collection: publications
 permalink: /publication/2020-07-16-independent-blocks
 excerpt: 'Model selection criterion to estimate the points of independence of a random vector, producing a decomposition of the vector distribution function into independent blocks.'
 date: 2020-07-16
-venue: 'Journal 1'
+venue: 'Journal of Time Series Analysis'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
 citation: 'Leonardi, F., Lopez‐Rosenfeld, M., Rodriguez, D., Severino, M. T., & Sued, M (2021). &quot;Independent block identification in multivariate time series.&quot; <i>Journal of Time Series Analysis, </i>. 42(1), 19-33.'
 ---
