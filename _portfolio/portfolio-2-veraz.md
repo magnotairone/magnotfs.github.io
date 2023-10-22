@@ -1,6 +1,6 @@
 ---
 title: "Veraz"
-excerpt: "Você pode fazer o download do módulo já existente para usuários Mac e Linux aqui. Instruções para instalação e um exemplo de uso podem ser encontrados aqui."
+excerpt: "Projeto de manipulação e análise dos dados do portal da transparência do governo federal."
 collection: portfolio
 ---
 
