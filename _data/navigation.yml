@@ -3,6 +3,7 @@ main:
 
   - title: "CV Lattes"
     url: http://lattes.cnpq.br/9791024128849349 #/cv/
+    target: _blank
 
   - title: "Publicações"
     url: /publications/
@@ -21,3 +22,6 @@ main:
   #   
   # - title: "Guide"
   #   url: /markdown/
+
+# fonte: https://www.youtube.com/watch?v=8lJhXJCUYCc
+# https://sudo-boris.github.io/
