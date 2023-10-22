@@ -2,9 +2,9 @@
 title: "Detecção de pontos de mudança na curva de novos casos de covid-19"
 collection: talks
 type: "Talk"
-permalink: /talks/2031-11-17-santander
+permalink: /talks/2021-11-17-santander
 venue: "Banco Santander"
-date: 2014-02-01
+date: 2021-11-17
 location: "São Paulo"
 ---
 
