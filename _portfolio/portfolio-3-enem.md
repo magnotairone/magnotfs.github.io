@@ -1,5 +1,5 @@
 ---
-title: "Visualizando as desigualdades existentes no Brasil atrvés dos resultados do ENEM"
+title: "Visualizando as desigualdades existentes no Brasil através dos resultados do ENEM"
 excerpt: "Análise dos dados socioeconomicos dos candidatos inscritos no enem 2017."
 collection: portfolio
 ---

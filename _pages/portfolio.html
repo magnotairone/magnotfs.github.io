@@ -11,7 +11,7 @@ Aqui estão alguns projetos que fiz ou colaborei com outros autores.
 
 {% assign sorted_posts = site.portfolio | sort: 'title' | reverse %}
 
-{% for post in sorted_posts %}
+{% for post in site.portfolio | reverse %}
   {% include archive-single.html %}
 {% endfor %}
 
