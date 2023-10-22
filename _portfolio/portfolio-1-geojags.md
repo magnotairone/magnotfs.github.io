@@ -1,0 +1,10 @@
+---
+title: "Geojags"
+excerpt: "Você pode fazer o download do módulo já existente para usuários Mac e Linux aqui. Instruções para instalação e um exemplo de uso podem ser encontrados aqui."
+collection: portfolio
+---
+
+A modelagem hierarquica Bayesiana para dados espaciais pode ser bastante desafiadora para profissionais de áreas para além da estatística. Do ponto de vista técnico, a parte mais simples do processo é definir o modelo e as distribuições a priori. A dificuldade está no cálculo das distribuições condicionais completas a posteriori e na implementação do algoritmo amostrador de Gibbs. A família de softwares estatísticos BUGS (acrônimo para inferência Bayesiana usando o amostrador de Gibbs, em tradução literal) reduz o esforço de modelagem, uma vez que o usuário deve indicar apenas as distribuições a priori e a verossimilhança dos dados. Entretanto, em geral tais softwares não permitem análises mais complexas de dados espaciais, embora usuários do WinBUGS e do OpenBUGS} podem usar o módulo espacial GeoBUGS. JAGS (apenas outro amostrador de Gibbs, em tradução literal), é uma alternativa à família BUGS, desenvolvida em C++ com código aberto, não contém nenhuma função ou distribuição disponível que simplifique a modelagem de dados espaciais. O objetivo fundamental deste trabalho é suprir essa falta, implementando um módulo para o software JAGS que permita aos usuários de diferentes áreas realizar modelagem e análise de dados espacias de maneira simples.
+
+Você pode fazer o download do módulo já existente para usuários Mac e Linux <a href="https://geojags.sourceforge.io/" target="_blank">aqui</a>. Instruções para instalação e um exemplo de uso podem ser encontrados <a href="https://sourceforge.net/projects/geojags/files/" target="_blank">aqui</a>.
+Em breve, publicarei aqui um exemplo com dados reais usando o <tt>GeoJAGS</tt>
