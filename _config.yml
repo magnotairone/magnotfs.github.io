@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Magno TFS"
+  name             : "Magno"
   avatar           : "profile-foto2.png"
   bio              : "Sou estudante de doutorado no Departamento de Estatística da Universidade de São Paulo. Minhas áreas de pesquisa incluem modelos de aprendizagem estatística, processos estocásticos, estimação de gráficos. Tenho interesse em ciência de dados, análise de dados em alta dimensão, LLMs, inferência bayesiana e estatísticas espaciais. Explore o meu trabalho e interesses aqui."
   location         : "São Paulo"
