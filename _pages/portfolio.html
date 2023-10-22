@@ -9,7 +9,7 @@ Aqui estão alguns projetos que fiz ou colaborei com outros autores.
 
 {% include base_path %}
 
-{% assign sorted_posts = site.portfolio | sort: 'title' | reverse %}
+{% assign sorted_posts = site.portfolio | sort: 'name' | reverse %}
 
 {% for post in site.portfolio | reverse %}
   {% include archive-single.html %}
