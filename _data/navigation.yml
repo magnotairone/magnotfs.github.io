@@ -1,8 +1,8 @@
 # main links links
 main:
 
-  - title: "CV"
-    url: /cv/
+  - title: "CV Lattes"
+    url: http://lattes.cnpq.br/9791024128849349 #/cv/
 
   - title: "Publicações"
     url: /publications/
